@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![alt text](https://github.com/joeyPark8/waitfor/blob/main/KakaoTalk_20210927_233907645.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
