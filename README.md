@@ -1,8 +1,8 @@
 # waitfor
 
-A new Flutter project.
+A flutter project for waiting holiday, special day, etc.
 
-![alt text](https://github.com/joeyPark8/waitfor/blob/main/KakaoTalk_20210927_233907645.png)
+![img](https://github.com/joeyPark8/waitfor/blob/main/KakaoTalk_20210927_233907645.png)
 
 ## Getting Started
 
