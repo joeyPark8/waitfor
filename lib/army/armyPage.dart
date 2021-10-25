@@ -10,14 +10,23 @@ class ArmyPage extends StatefulWidget {
 }
 
 class _ArmyPage extends State<ArmyPage> {
+  var now = DateTime.now();
+
   var cal = Calculator();
   var days = 0;
 
-  var year = 2121;
-  var month = 1;
-  var date = 1;
+  var year = 0;
+  var month = 0;
+  var date = 0;
 
   var text = '';
+
+  @override
+  void initState() {
+    year = now.year + 100;
+    month = now.month;
+    date = now.day;
+  }
 
   @override
   Widget build(BuildContext context) {

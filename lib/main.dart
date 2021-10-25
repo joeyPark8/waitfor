@@ -3,7 +3,8 @@ import 'package:waitfor/army/armyPage.dart';
 import 'package:waitfor/birthday/applyPage.dart';
 import 'package:waitfor/birthday/bdayPage.dart';
 import 'package:waitfor/cardForm.dart';
-import 'package:waitfor/midtermtest/fintermtestPage.dart';
+import 'package:waitfor/fintermtest/fintermtestPage.dart';
+import 'package:waitfor/fintermtest/gradeCalPage.dart';
 import 'package:waitfor/newyear/newyearPage.dart';
 import 'package:waitfor/myScrollBehavior.dart';
 
@@ -25,6 +26,7 @@ class MyApp extends StatelessWidget {
         '/': (context) => Home(),
         '/newyear': (context) => NewYearPage(),
         '/fintermtest': (context) => FintermtestPage(),
+        '/fintermtest/calculate': (context) => GradeCalPage(),
         '/army': (context) => ArmyPage(),
         '/birthday': (context) => BdayPage(),
         '/birthday/apply': (context) => ApplyPage(),
