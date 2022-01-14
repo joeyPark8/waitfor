@@ -1,8 +1,6 @@
 # waitfor
 
-A flutter project for waiting holiday, special day, etc.
-
-![img](https://github.com/joeyPark8/waitfor/blob/main/KakaoTalk_20210927_233907645.png)
+A new for waiting sth.
 
 ## Getting Started
 
