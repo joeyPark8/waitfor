@@ -1,6 +1,6 @@
 # waitfor
 
-A site for waiting sth.
+A new for waiting sth.
 
 ## Getting Started
 
